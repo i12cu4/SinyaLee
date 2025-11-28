@@ -1,0 +1,5 @@
+标题: RP值测试机
+链接: https://sinyalee.com/blog/?p=177
+分类: 作品展示, 作品展示, 作品展示, 心情日记, 作品展示, 作品展示, 作品展示
+==================================================
+上个星期下载了Borland的Delphi，顺便编了一个RP值测试机。虽然技术含量不高，但是毕竟面向对象的编程可以给人成就感。 下载：http://sinyalee.com/programs/rpzhiceshiji.exe update in Feb, 2009： 刚才改正了链接

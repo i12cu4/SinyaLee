@@ -1,0 +1,5 @@
+标题: 序列变换
+链接: https://sinyalee.com/blog/?p=687
+分类: 分享, 分享, 分享, 心情日记, 分享, 优, 作品展示, 分享, 分享, 往事如烟
+==================================================
+人家生日开怕踢黑皮去了，就我过生日认真写了15页英文题解。因为本人水平有限，有拼写语法逻辑错误请告知。 序列变换(sequence), 来自CTSC 2009. 本地下载：Analysis of Problem Sequence, Another Solution of Problem Sequence Google Docs: Analysis of Problem Sequence, Another Solution of Problem Sequence
